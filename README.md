@@ -8,8 +8,8 @@ This demo is built as a _static_ web application.
 
 1. Download and copy the root folder to a web accessible location
 2. Configure Imagery Layer URLs in index.js
-   1. **CLIMATE_URL**: URL to Imagery Layer used for visualization
-   2. **INDEX_URL**: URL to Imagery Layer used for location details and chart
+   * **CLIMATE_URL**: URL to Imagery Layer used for visualization
+   * **INDEX_URL**: URL to Imagery Layer used for location details and chart
     
  
 #### For questions about the demo web application:
